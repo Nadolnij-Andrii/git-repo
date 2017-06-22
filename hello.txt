@@ -1,5 +1,6 @@
-print hellow word
-print 123456
-hi
-hello my dear friend
-glad to see you
+<<<<<<< HEAD
+print hellow word;
+print 123456;
+hi;
+hello my dear friend;
+glad to see you;
