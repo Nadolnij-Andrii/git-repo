@@ -1,2 +1,2 @@
-goodbye world
-goodbye
+goodbye world;
+goodbye;
